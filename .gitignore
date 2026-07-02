@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore VS Code temporary execution files
+tempCodeRunnerFile.python
+
+# Ignore non-related folders for this specific repository
+Projeto login/
+projeto_extraido/
