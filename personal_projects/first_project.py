@@ -1,13 +1,12 @@
 # -------------------------------------------------------------------------
-# PROJETO 01
-# Prática: Variáveis, Métodos de String e Formatação com f-strings
+# PROJECT 01
+# Practice: Variables, String Methods, and Formatting with f-strings
 # -------------------------------------------------------------------------
 
+author = "elon musk"
+formatted_author = author.title()
 
-autor = "elon musk"
-autor_formatado = autor.title()
+quote = "When something is important enough, you do it even if the odds are not in your favor"
 
-frase = "Quando algo é importante o suficiente, você faz, mesmo que as probabilidades não estejam a seu favor."
-
-print(f'\n "{frase}"\n')
-print(f"\t- {autor_formatado} ")
+print(f'\n"{quote}"\n')
+print(f"\t-{formatted_author}")

@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------
-# PROJECT 02
+# PROJECT 02 - Receipt Generator
 # -------------------------------------------------------------------------
 client_name = "john"
 service_description = "Home remodeling at 367, labor only!"
