@@ -1,19 +1,23 @@
-# Caderno de Estudos — Livro Curso Intensivo de Python
+# Caderno de Estudos — Livro: Curso Intensivo de Python
 
-Aqui guardarei meu estudo e desenvolvimento através do livro "Curso Intensivo de Python".
-
-Utilizo este espaço como meu caderno digital para exercitar a lógica, testar códigos e ver minha evolução junto com a pós.
+Aqui guardarei meu estudo e desenvolvimento através do livro **"Curso Intensivo de Python"**. Utilizo este espaço como meu caderno digital para exercitar a lógica, testar códigos e acompanhar minha evolução junto com a pós-graduação.
 
 ---
 
-## 🛠️ O que estou usando:
+### 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python
-* **Editor:** Cursor // VScode
-* **Aplicação:** Prática de lógica, estruturas de dados e automações. 
-* **Objetivo:** Me desenvolver como programador em Python, usando o livro como complemento a Pós.
-
-## 📂 Como organizei os arquivos:
-* Aqui dentro você vai encontrar as resoluções dos desafios propostos no livro, separados por capítulos ou temas de estudo.
+* **Editor de Código:** VS Code / Cursor
+* **Aplicação:** Prática de lógica, estruturas de dados e automações (RPA)
+* **Objetivo:** Me desenvolver como programador Python, utilizando o livro como complemento prático para a pós-graduação.
 
 ---
-Atualmente estou cursando pós-graduação CodeMaster em Python na UTFPR.
+
+### 📂 Organização dos Arquivos
+Aqui dentro você vai encontrar as resoluções dos desafios propostos no livro, divididos de forma organizada:
+* `personal_projects/`: Projetos autorais e desafios práticos desenvolvidos em inglês para simular o ambiente padrão de mercado.
+* `python_crash_course_book/`: Exercícios diretos extraídos dos capítulos do livro.
+
+---
+
+### 🎓 Contexto Acadêmico
+Atualmente estou cursando a pós-graduação em Python na **UTFPR** (Universidade Tecnológica Federal do Paraná). Este repositório serve como o ecossistema onde aplico os conceitos teóricos que vejo em aula.
