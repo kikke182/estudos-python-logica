@@ -184,7 +184,7 @@ print(local)
 
 # Exercise 3-11 Intentional Error
 
-country = ['Brasil', 'Croatia', 'Australia']
+country = ['Brazil', 'Croatia', 'Australia']
 
 # This line produces an IndexError because index 3 does not exist (max index is 2):
 # print(country[3])
