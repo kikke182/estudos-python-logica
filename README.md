@@ -1,6 +1,6 @@
 # Caderno de Estudos — Livro: Curso Intensivo de Python
 
-Aqui guardarei meu estudo e desenvolvimento através do livro **"Curso Intensivo de Python"**. Utilizo este espaço como meu caderno digital para exercitar a lógica, testar códigos e acompanhar minha evolução junto com a pós-graduação.
+Aqui guardarei meu estudo e desenvolvimento através do livro **"Curso Intensivo de Python"**. Utilizo este espaço como meu caderno digital para citar a lógica, testar códigos e acompanhar minha evolução junto com a pós-graduação.
 
 ---
 

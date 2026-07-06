@@ -181,3 +181,14 @@ print(local)
 local.sort(reverse=True)
 print("\n9. Here is the permanently sorted reverse alphabetical list:")
 print(local)
+
+# Exercise 3-11 Intentional Error
+
+country = ['Brasil', 'Croatia', 'Australia']
+
+# This line produces an IndexError because index 3 does not exist (max index is 2):
+# print(country[3])
+
+# Corrected version:
+print("\n--- Exercise 3-11 ---")
+print(f"Corrected index access: {country[2]}")
