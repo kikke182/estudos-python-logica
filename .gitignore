@@ -3,7 +3,15 @@
 
 # Ignore VS Code temporary execution files
 tempCodeRunnerFile.python
-
+tempCodeRunnerFile*
 # Ignore non-related folders for this specific repository
 Projeto login/
 projeto_extraido/
+# Ignorar todos os arquivos dentro da pasta drafts
+drafts/
+python_crash_course_book/
+Projeto login/
+projeto_extraido/
+
+# Seus dados financeiros (MANTENHA ISSO!)
+dados/
