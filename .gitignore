@@ -14,3 +14,8 @@ projeto_extraido/
 
 # Seus dados financeiros (MANTENHA ISSO!)
 dados/
+
+# Arquivos de mídia e links que subiram por acidente
+*.jpeg
+*.htm
+projeto_dado_a_decisao.py

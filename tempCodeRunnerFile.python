@@ -1,0 +1,79 @@
+# =============================================================================
+# PYTHON CRASH COURSE - CHAPTER 5: IF STATEMENTS
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# 5.1 Conditional Tests
+# -----------------------------------------------------------------------------
+# Defining a list of cars
+# car_list = ['subaru', 'audi', 'bmw']
+# car = 'subaru'
+
+# # Part 1: Simple tests
+# print("Is car == 'subaru'? I predict True.")
+# print(car == 'subaru')
+
+# # Part 2: Logical tests using 'or' and 'and'
+# # Using == for comparison instead of =
+# print(car == 'subaru' or car == 'toyota')  # Result: True
+# print(car == 'subaru' and car == 'audi')   # Result: False
+
+# # Part 3: Using 'in' to check if the car is in the list
+# if car in car_list:
+#     print(f"{car.title()}, is on the list!")
+
+# # Part 4: False test scenario
+# car_list_2 = 'toyota'
+# print("\nIs car == 'toyota'? I predict False")
+# print(car == 'toyota')
+
+# # Logical tests with different variables
+# print(car == 'toyota' or car_list_2 == 'subaru')  # Result: False
+# print(car == 'toyota' and car_list_2 == 'subaru') # Result: False
+
+# # Part 5: Using 'not in'
+# if car not in car_list_2:
+#     print(f"{car.title()}, is not on the list!")
+
+# Exercise 5.2: More Conditional Tests
+
+rock_bands = ['blink-182', 'linkin park', 'green day', 'foo fighters']
+my_favorite = 'blink-182'
+
+# --- 5 Tests that evaluate to True ---
+print("1. Is my_favorite == 'blink-182'? True")
+print(my_favorite == 'blink-182')
+
+print("2. Is 'green day' in rock_bands? True")
+print("green day" in rock_bands)
+
+print("3. Is 'linkin park' != 'blink-182'? True")
+print('linkin park' != my_favorite)
+
+print("4. Is 20 < 23? True")
+print(20 < 23)
+
+print("5. Is 'a7x' not in rock_bands? True")
+print('a7x' not in rock_bands)
+
+# --- 5 Tests that evaluate to False ---
+print("\n6. Is my_favorite == 'foo fighters'? False")
+print(my_favorite == 'foo fighters')
+
+print("7. Is 'queen' in rock_bands? False")
+print("queen" in rock_bands)
+
+print("8. Is 'linkin park' == 'blink-182'? False")
+print('linkin park' == my_favorite)
+
+print("9. Is 20 > 23? False")
+print(20 > 23)
+
+print("10. Is 'blink-182' not in rock_bands? False")
+print('blink-182' not in rock_bands)
+
+# --- Test using the lower() method ---
+# This proves that 'BLINK-182' (uppercase) is equal to 'blink-182' (lowercase) after converting
+print("\n11. Is 'BLINK-182'.lower() == 'blink-182'? True")
+print('BLINK-182'.lower() == 'blink-182')
+
